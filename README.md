@@ -25,3 +25,7 @@
 - after the modules installation the first menu should appear and then the setup and installation proccess will be finished
 
 ### how to use the RDX tool : 
+
+
+### functions : 
+
