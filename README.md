@@ -18,7 +18,7 @@
 
   - extract the tool's folder
   - put the tool's folder in the desktop
-  - open the git bash terminal and paste this command {cd $'/c/Users/adam\'s pc/Desktop/RDX tool'} in git bash terminal
+  - open the git bash terminal and paste this command {cd Desktop/RDX tool'} in git bash terminal
   - then type this command {bash run.sh} in the git bash terminal
   - a menu should appear then just type b and enter and the modules installation will begin
   
@@ -26,7 +26,7 @@
 
 ### how to use the RDX tool : 
 - after successfully downlading the tool and its modules and libraries you can finally start using by simply following these steps :
-  - open the git bash terminal and paste this command {cd $'/c/Users/adam\'s pc/Desktop/RDX tool'} in git bash terminal
+  - open the git bash terminal and paste this command {cd Desktop/RDX tool'} in git bash terminal
   - then type this command {bash run.sh} in the git bash terminal
   - a menu should appear then just type a and enter and the tool will start runing
   - after that another menu should appear and it should be displaying you network info and will ask you to enter the target's name and a list, the target's name can be the target's instagram username or email address or phone number and the list is the txt file that contains the passwords so choose a file and enter its name without the {.txt} extension ( only 2 defaults {test.txt} ; {dictionary.txt} ) if you want to add your own list it must be a txt file and just place in this directory {RDX tool\\libraries}
